@@ -1,0 +1,857 @@
+
+NEW EPISODE BEGINS -> transcript-010225.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  Chinese Food and Donuts: A Classic Bay Area Combo
+NER from text: [san francisco bay area, northern california, 24th street]
+Truth Locations:  ['China Express and Donut', 'Mission District']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  Chinese Food and Donuts: A Classic Bay Area Combo
+NER from text: [san francisco bay area, northern california, 24th street]
+Truth Locations:  ['China Express and Donut', 'Mission District']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  Chinese Food and Donuts: A Classic Bay Area Combo
+NER from text: [san francisco bay area, northern california, 24th street]
+Truth Locations:  ['China Express and Donut', 'Mission District']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  Chinese Food and Donuts: A Classic Bay Area Combo
+NER from text: [san francisco bay area, northern california, 24th street]
+Truth Locations:  ['China Express and Donut', 'Mission District']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  Chinese Food and Donuts: A Classic Bay Area Combo
+NER from text: [san francisco bay area, northern california, 24th street]
+Truth Locations:  ['China Express and Donut', 'Mission District']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  Chinese Food and Donuts: A Classic Bay Area Combo
+NER from text: [san francisco bay area, northern california, 24th street]
+Truth Locations:  ['China Express and Donut', 'Mission District']
+Match found ✅.
+
+Episode transcript-010225.txt done. (Loop Duration: 4.5013 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-120524.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  Is Monterey Jack Cheese ... Not From Monterey?
+NER from text: [monterey jack cheese, california, pacifica jack cheese”]
+Truth Locations:  ['Mori Point', 'Rockaway Beach', 'Pacifica']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  Is Monterey Jack Cheese ... Not From Monterey?
+NER from text: [monterey jack cheese, california, pacifica jack cheese”]
+Truth Locations:  ['Mori Point', 'Rockaway Beach', 'Pacifica']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  Is Monterey Jack Cheese ... Not From Monterey?
+NER from text: [monterey jack cheese, pacifica jack cheese”, california]
+Truth Locations:  ['Mori Point', 'Rockaway Beach', 'Pacifica']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  Is Monterey Jack Cheese ... Not From Monterey?
+NER from text: [monterey jack cheese, pacifica jack cheese”, california]
+Truth Locations:  ['Mori Point', 'Rockaway Beach', 'Pacifica']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  Is Monterey Jack Cheese ... Not From Monterey?
+NER from text: [monterey jack cheese, pacifica jack cheese”, california]
+Truth Locations:  ['Mori Point', 'Rockaway Beach', 'Pacifica']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  Is Monterey Jack Cheese ... Not From Monterey?
+NER from text: [monterey jack cheese, pacifica jack cheese”, california]
+Truth Locations:  ['Mori Point', 'Rockaway Beach', 'Pacifica']
+Match found ✅.
+
+Episode transcript-120524.txt done. (Loop Duration: 4.8818 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-103124.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  An Eerie Night on the USS Hornet
+NER from text: [alameda, winchester mystery house, bay area]
+Truth Locations:  ['USS Hornet', 'Alameda']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  An Eerie Night on the USS Hornet
+NER from text: [alameda, winchester mystery house, bay area]
+Truth Locations:  ['USS Hornet', 'Alameda']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  An Eerie Night on the USS Hornet
+NER from text: [uss hornet, alameda, winchester mystery house]
+Truth Locations:  ['USS Hornet', 'Alameda']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  An Eerie Night on the USS Hornet
+NER from text: [alameda, uss hornet, winchester mystery house]
+Truth Locations:  ['USS Hornet', 'Alameda']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  An Eerie Night on the USS Hornet
+NER from text: [uss hornet, alameda, winchester mystery house]
+Truth Locations:  ['USS Hornet', 'Alameda']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  An Eerie Night on the USS Hornet
+NER from text: [uss hornet, alameda, winchester mystery house]
+Truth Locations:  ['USS Hornet', 'Alameda']
+Match found ✅.
+
+Episode transcript-103124.txt done. (Loop Duration: 2.8946 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-050924.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  History of Sutro Baths
+NER from text: [san francisco, sutro baths, ocean beach]
+Truth Locations:  ['Sutro Baths']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  History of Sutro Baths
+NER from text: [ocean beach, san francisco, sutro baths]
+Truth Locations:  ['Sutro Baths']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  History of Sutro Baths
+NER from text: [san francisco, sutro baths, california]
+Truth Locations:  ['Sutro Baths']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  History of Sutro Baths
+NER from text: [san francisco, sutro baths, nevada]
+Truth Locations:  ['Sutro Baths']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  History of Sutro Baths
+NER from text: [san francisco, sutro baths, california]
+Truth Locations:  ['Sutro Baths']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  History of Sutro Baths
+NER from text: [san francisco, sutro baths, cliff house]
+Truth Locations:  ['Sutro Baths']
+Match found ✅.
+
+Episode transcript-050924.txt done. (Loop Duration: 6.5398 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-020124.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  Why Piedmont Is A Separate City From Oakland
+NER from text: [oakland avenue, elmhurst, melrose]
+Truth Locations:  ['Piedmont']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  Why Piedmont Is A Separate City From Oakland
+NER from text: [oakland avenue, elmhurst, melrose]
+Truth Locations:  ['Piedmont']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  Why Piedmont Is A Separate City From Oakland
+NER from text: [oakland avenue, piedmont springs hotel, elmhurst]
+Truth Locations:  ['Piedmont']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  Why Piedmont Is A Separate City From Oakland
+NER from text: [oakland avenue, elmhurst, melrose]
+Truth Locations:  ['Piedmont']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  Why Piedmont Is A Separate City From Oakland
+NER from text: [oakland avenue, piedmont springs hotel, elmhurst]
+Truth Locations:  ['Piedmont']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  Why Piedmont Is A Separate City From Oakland
+NER from text: [oakland avenue, piedmont springs hotel, elmhurst]
+Truth Locations:  ['Piedmont']
+Match found ✅.
+
+Episode transcript-020124.txt done. (Loop Duration: 5.2604 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-011824.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  The Hidden History of Fort Scott
+NER from text: [estuary park, lincoln ave, u.s.]
+Truth Locations:  ['Fort Winfield Scott', 'Fort Scott']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  The Hidden History of Fort Scott
+NER from text: [estuary park, lincoln ave, u.s.]
+Truth Locations:  ['Fort Winfield Scott', 'Fort Scott']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  The Hidden History of Fort Scott
+NER from text: [fort scott parade, estuary park, lincoln ave]
+Truth Locations:  ['Fort Winfield Scott', 'Fort Scott']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  The Hidden History of Fort Scott
+NER from text: [estuary park, lincoln ave, u.s.]
+Truth Locations:  ['Fort Winfield Scott', 'Fort Scott']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  The Hidden History of Fort Scott
+NER from text: [fort scott parade, estuary park, lincoln ave]
+Truth Locations:  ['Fort Winfield Scott', 'Fort Scott']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  The Hidden History of Fort Scott
+NER from text: [fort scott parade, estuary park, lincoln ave]
+Truth Locations:  ['Fort Winfield Scott', 'Fort Scott']
+Match found ✅.
+
+Episode transcript-011824.txt done. (Loop Duration: 8.2376 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-011124.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  Two Water Temples ... Why?!
+NER from text: [tivoli, 680, presidio]
+Truth Locations:  ['Pulgas Water Temple', 'Sunol Water Temple']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  Two Water Temples ... Why?!
+NER from text: [tivoli, 680, presidio]
+Truth Locations:  ['Pulgas Water Temple', 'Sunol Water Temple']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  Two Water Temples ... Why?!
+NER from text: [tivoli, hetch hetchy valley, california]
+Truth Locations:  ['Pulgas Water Temple', 'Sunol Water Temple']
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  Two Water Temples ... Why?!
+NER from text: [tivoli, 680, presidio]
+Truth Locations:  ['Pulgas Water Temple', 'Sunol Water Temple']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  Two Water Temples ... Why?!
+NER from text: [tivoli, hetch hetchy valley, california]
+Truth Locations:  ['Pulgas Water Temple', 'Sunol Water Temple']
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  Two Water Temples ... Why?!
+NER from text: [tivoli, california, hetch hetchy valley]
+Truth Locations:  ['Pulgas Water Temple', 'Sunol Water Temple']
+
+Episode transcript-011124.txt done. (Loop Duration: 11.1006 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-101724.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  A Final Resting Spot for Furry Friends
+NER from text: [west point, presidio pet cemetery, san francisco]
+Truth Locations:  ['Presidio Pet Cemetery']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  A Final Resting Spot for Furry Friends
+NER from text: [west point, san francisco, golden gate bridge]
+Truth Locations:  ['Presidio Pet Cemetery']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  A Final Resting Spot for Furry Friends
+NER from text: [presidio pet cemetery, west point, san francisco]
+Truth Locations:  ['Presidio Pet Cemetery']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  A Final Resting Spot for Furry Friends
+NER from text: [west point, presidio pet cemetery, san francisco]
+Truth Locations:  ['Presidio Pet Cemetery']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  A Final Resting Spot for Furry Friends
+NER from text: [presidio pet cemetery, west point, san francisco]
+Truth Locations:  ['Presidio Pet Cemetery']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  A Final Resting Spot for Furry Friends
+NER from text: [presidio pet cemetery, west point, san francisco]
+Truth Locations:  ['Presidio Pet Cemetery']
+Match found ✅.
+
+Episode transcript-101724.txt done. (Loop Duration: 4.2785 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-091124.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  Does Mount Diablo Have the Biggest View in the World?
+NER from text: [delta, africa, round top]
+Truth Locations:  ['Mount Diablo', 'Diablo Range', 'Contra Costa County']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  Does Mount Diablo Have the Biggest View in the World?
+NER from text: [delta, africa, round top]
+Truth Locations:  ['Mount Diablo', 'Diablo Range', 'Contra Costa County']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  Does Mount Diablo Have the Biggest View in the World?
+NER from text: [diablo range, delta, africa]
+Truth Locations:  ['Mount Diablo', 'Diablo Range', 'Contra Costa County']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  Does Mount Diablo Have the Biggest View in the World?
+NER from text: [delta, round top, ashland]
+Truth Locations:  ['Mount Diablo', 'Diablo Range', 'Contra Costa County']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  Does Mount Diablo Have the Biggest View in the World?
+NER from text: [diablo range, delta, round top]
+Truth Locations:  ['Mount Diablo', 'Diablo Range', 'Contra Costa County']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  Does Mount Diablo Have the Biggest View in the World?
+NER from text: [diablo range, delta, round top]
+Truth Locations:  ['Mount Diablo', 'Diablo Range', 'Contra Costa County']
+Match found ✅.
+
+Episode transcript-091124.txt done. (Loop Duration: 12.3574 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-082924.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  Port Costa: Quirky, Historic, Cool
+NER from text: [california, carquinez straits, wild west]
+Truth Locations:  ['Port Costa', 'The Warehouse Cafe', 'The Burlington Hotel']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  Port Costa: Quirky, Historic, Cool
+NER from text: [california, wild west, carquinez straits]
+Truth Locations:  ['Port Costa', 'The Warehouse Cafe', 'The Burlington Hotel']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  Port Costa: Quirky, Historic, Cool
+NER from text: [carquinez straits, solano, california]
+Truth Locations:  ['Port Costa', 'The Warehouse Cafe', 'The Burlington Hotel']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  Port Costa: Quirky, Historic, Cool
+NER from text: [martinez, benicia, carquinez straits]
+Truth Locations:  ['Port Costa', 'The Warehouse Cafe', 'The Burlington Hotel']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  Port Costa: Quirky, Historic, Cool
+NER from text: [carquinez straits, solano, martinez]
+Truth Locations:  ['Port Costa', 'The Warehouse Cafe', 'The Burlington Hotel']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  Port Costa: Quirky, Historic, Cool
+NER from text: [carquinez straits, martinez, solano]
+Truth Locations:  ['Port Costa', 'The Warehouse Cafe', 'The Burlington Hotel']
+Match found ✅.
+
+Episode transcript-082924.txt done. (Loop Duration: 8.0861 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-061324.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  Why the Name Brotherhood Way in SF?
+NER from text: [7th street, market, greektown]
+Truth Locations:  ['Brotherhood Way']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  Why the Name Brotherhood Way in SF?
+NER from text: [7th street, market, greektown]
+Truth Locations:  ['Brotherhood Way']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  Why the Name Brotherhood Way in SF?
+NER from text: [san francisco bay area, 7th street, market]
+Truth Locations:  ['Brotherhood Way']
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  Why the Name Brotherhood Way in SF?
+NER from text: [san francisco bay area, 7th street, clement]
+Truth Locations:  ['Brotherhood Way']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  Why the Name Brotherhood Way in SF?
+NER from text: [san francisco bay area, 7th street, market]
+Truth Locations:  ['Brotherhood Way']
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  Why the Name Brotherhood Way in SF?
+NER from text: [san francisco bay area, 7th street, clement]
+Truth Locations:  ['Brotherhood Way']
+
+Episode transcript-061324.txt done. (Loop Duration: 6.7150 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-122424.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  Episode 608: New Year, New Neighborhood
+NER from text: [new york city, manhattan, broadway]
+Truth Locations:  ['Times Square']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  Episode 608: New Year, New Neighborhood
+NER from text: [new york city, manhattan, coney island]
+Truth Locations:  ['Times Square']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  Episode 608: New Year, New Neighborhood
+NER from text: [times square’s, new york city, manhattan]
+Truth Locations:  ['Times Square']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  Episode 608: New Year, New Neighborhood
+NER from text: [new york city, manhattan, broadway]
+Truth Locations:  ['Times Square']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  Episode 608: New Year, New Neighborhood
+NER from text: [times square’s, new york city, manhattan]
+Truth Locations:  ['Times Square']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  Episode 608: New Year, New Neighborhood
+NER from text: [times square’s, new york city, manhattan]
+Truth Locations:  ['Times Square']
+Match found ✅.
+
+Episode transcript-122424.txt done. (Loop Duration: 13.5969 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-082024.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  The Bottom of the Bowl
+NER from text: [montpelier, vermont, deep south]
+Truth Locations:  ['Montpelier']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  The Bottom of the Bowl
+NER from text: [montpelier, vermont, deep south]
+Truth Locations:  ['Montpelier']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  The Bottom of the Bowl
+NER from text: [montpelier, vermont, deep south]
+Truth Locations:  ['Montpelier']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  The Bottom of the Bowl
+NER from text: [montpelier, vermont, deep south]
+Truth Locations:  ['Montpelier']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  The Bottom of the Bowl
+NER from text: [montpelier, vermont, deep south]
+Truth Locations:  ['Montpelier']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  The Bottom of the Bowl
+NER from text: [montpelier, vermont, deep south]
+Truth Locations:  ['Montpelier']
+Match found ✅.
+
+Episode transcript-082024.txt done. (Loop Duration: 12.6309 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-112922.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  Episode 42: There’s a bear in my backyard
+NER from text: [arlington, virginia, new york city]
+Truth Locations:  ['Arlington']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  Episode 42: There’s a bear in my backyard
+NER from text: [arlington, virginia, wilmington]
+Truth Locations:  ['Arlington']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  Episode 42: There’s a bear in my backyard
+NER from text: [arlington, virginia, new york city]
+Truth Locations:  ['Arlington']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  Episode 42: There’s a bear in my backyard
+NER from text: [arlington, virginia, new york city]
+Truth Locations:  ['Arlington']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  Episode 42: There’s a bear in my backyard
+NER from text: [arlington, virginia, new york city]
+Truth Locations:  ['Arlington']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  Episode 42: There’s a bear in my backyard
+NER from text: [arlington, virginia, new york city]
+Truth Locations:  ['Arlington']
+Match found ✅.
+
+Episode transcript-112922.txt done. (Loop Duration: 7.9937 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-040522.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  Episode 6: Life Up North
+NER from text: [russia, dc, states]
+Truth Locations:  ['Fairbanks']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  Episode 6: Life Up North
+NER from text: [russia, dc, states]
+Truth Locations:  ['Fairbanks']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  Episode 6: Life Up North
+NER from text: [north alaska, russia, dc]
+Truth Locations:  ['Fairbanks']
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  Episode 6: Life Up North
+NER from text: [russia, states, dc]
+Truth Locations:  ['Fairbanks']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  Episode 6: Life Up North
+NER from text: [north alaska, russia, states]
+Truth Locations:  ['Fairbanks']
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  Episode 6: Life Up North
+NER from text: [north alaska, russia, states]
+Truth Locations:  ['Fairbanks']
+
+Episode transcript-040522.txt done. (Loop Duration: 12.6466 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-110724.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  Exploring LA's 'unique and unexpected' museums w/ Todd Lerew
+NER from text: [science center, dc 3, la international airport]
+Truth Locations:  ['Flight Path Museum']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  Exploring LA's 'unique and unexpected' museums w/ Todd Lerew
+NER from text: [science center, dc 3, spirit of 76]
+Truth Locations:  ['Flight Path Museum']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  Exploring LA's 'unique and unexpected' museums w/ Todd Lerew
+NER from text: [dc 3, science center, la international airport]
+Truth Locations:  ['Flight Path Museum']
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  Exploring LA's 'unique and unexpected' museums w/ Todd Lerew
+NER from text: [science center, dc 3, spirit of 76]
+Truth Locations:  ['Flight Path Museum']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  Exploring LA's 'unique and unexpected' museums w/ Todd Lerew
+NER from text: [science center, dc 3, la international airport]
+Truth Locations:  ['Flight Path Museum']
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  Exploring LA's 'unique and unexpected' museums w/ Todd Lerew
+NER from text: [science center, dc 3, la international airport]
+Truth Locations:  ['Flight Path Museum']
+
+Episode transcript-110724.txt done. (Loop Duration: 10.9858 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-092624.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  REDUX: Food spots near LAX w/ LA Try Guy
+NER from text: [l.a., arkansas, south la]
+Truth Locations:  ['The Coffee Company', 'Hungry Joes']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  REDUX: Food spots near LAX w/ LA Try Guy
+NER from text: [l.a., arkansas, south la]
+Truth Locations:  ['The Coffee Company', 'Hungry Joes']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  REDUX: Food spots near LAX w/ LA Try Guy
+NER from text: [l.a., arkansas, south la]
+Truth Locations:  ['The Coffee Company', 'Hungry Joes']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  REDUX: Food spots near LAX w/ LA Try Guy
+NER from text: [south la, l.a., arkansas]
+Truth Locations:  ['The Coffee Company', 'Hungry Joes']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  REDUX: Food spots near LAX w/ LA Try Guy
+NER from text: [l.a., south la, arkansas]
+Truth Locations:  ['The Coffee Company', 'Hungry Joes']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  REDUX: Food spots near LAX w/ LA Try Guy
+NER from text: [l.a., south la, arkansas]
+Truth Locations:  ['The Coffee Company', 'Hungry Joes']
+Match found ✅.
+
+Episode transcript-092624.txt done. (Loop Duration: 10.7562 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-113025.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  #449 Italian Harlem: New York's Forgotten Little Italy
+NER from text: [new york harbor, west indies, uptown manhattan]
+Truth Locations:  ['Spanish Harlem']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  #449 Italian Harlem: New York's Forgotten Little Italy
+NER from text: [west indies, new york harbor, uptown manhattan]
+Truth Locations:  ['Spanish Harlem']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  #449 Italian Harlem: New York's Forgotten Little Italy
+NER from text: [new york harbor, uptown manhattan, west indies]
+Truth Locations:  ['Spanish Harlem']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  #449 Italian Harlem: New York's Forgotten Little Italy
+NER from text: [new york harbor, west indies, uptown manhattan]
+Truth Locations:  ['Spanish Harlem']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  #449 Italian Harlem: New York's Forgotten Little Italy
+NER from text: [new york harbor, uptown manhattan, west indies]
+Truth Locations:  ['Spanish Harlem']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  #449 Italian Harlem: New York's Forgotten Little Italy
+NER from text: [new york harbor, uptown manhattan, west indies]
+Truth Locations:  ['Spanish Harlem']
+Match found ✅.
+
+Episode transcript-113025.txt done. (Loop Duration: 43.1501 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-060323.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  Ep. 23: Kelly Stuart at Majers Coin Laundry from "Everything Everywhere All at Once"
+NER from text: [360, new york, deep south]
+Truth Locations:  ['Majers Coin Laundry']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  Ep. 23: Kelly Stuart at Majers Coin Laundry from "Everything Everywhere All at Once"
+NER from text: [360, new york, deep south]
+Truth Locations:  ['Majers Coin Laundry']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  Ep. 23: Kelly Stuart at Majers Coin Laundry from "Everything Everywhere All at Once"
+NER from text: [360, new york, los angeles]
+Truth Locations:  ['Majers Coin Laundry']
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  Ep. 23: Kelly Stuart at Majers Coin Laundry from "Everything Everywhere All at Once"
+NER from text: [deep south, 360, new york]
+Truth Locations:  ['Majers Coin Laundry']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  Ep. 23: Kelly Stuart at Majers Coin Laundry from "Everything Everywhere All at Once"
+NER from text: [los angeles, 360, deep south]
+Truth Locations:  ['Majers Coin Laundry']
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  Ep. 23: Kelly Stuart at Majers Coin Laundry from "Everything Everywhere All at Once"
+NER from text: [los angeles, deep south, 360]
+Truth Locations:  ['Majers Coin Laundry']
+
+Episode transcript-060323.txt done. (Loop Duration: 19.6523 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-062223.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  Lost 2 Miles Below the Ocean
+NER from text: [titanic, earth, everest]
+Truth Locations:  ['Atlantic Ocean']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  Lost 2 Miles Below the Ocean
+NER from text: [titanic, earth, everest]
+Truth Locations:  ['Atlantic Ocean']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  Lost 2 Miles Below the Ocean
+NER from text: [titanic, earth, everest]
+Truth Locations:  ['Atlantic Ocean']
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  Lost 2 Miles Below the Ocean
+NER from text: [titanic, titan, connecticut]
+Truth Locations:  ['Atlantic Ocean']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  Lost 2 Miles Below the Ocean
+NER from text: [titanic, titan, earth]
+Truth Locations:  ['Atlantic Ocean']
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  Lost 2 Miles Below the Ocean
+NER from text: [titanic, titan, earth]
+Truth Locations:  ['Atlantic Ocean']
+
+Episode transcript-062223.txt done. (Loop Duration: 6.6500 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-062023.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  Episode 2: Michael
+NER from text: [stephenville, texas, indianapolis]
+Truth Locations:  ['Española']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  Episode 2: Michael
+NER from text: [stephenville, texas, virginia]
+Truth Locations:  ['Española']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  Episode 2: Michael
+NER from text: [stephenville, texas, indianapolis]
+Truth Locations:  ['Española']
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  Episode 2: Michael
+NER from text: [stephenville, texas, indiana]
+Truth Locations:  ['Española']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  Episode 2: Michael
+NER from text: [stephenville, texas, indianapolis]
+Truth Locations:  ['Española']
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  Episode 2: Michael
+NER from text: [stephenville, texas, indiana]
+Truth Locations:  ['Española']
+
+Episode transcript-062023.txt done. (Loop Duration: 9.5415 seconds)
+
+
+NEW EPISODE BEGINS -> transcript-040324.txt
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Episode title:  Story 5: Welcome to Paradise
+NER from text: [bay bridge, philly, brooklyn]
+Truth Locations:  ['924 Gilman Street, East Bay']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Episode title:  Story 5: Welcome to Paradise
+NER from text: [bay bridge, philly, brooklyn]
+Truth Locations:  ['924 Gilman Street, East Bay']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Episode title:  Story 5: Welcome to Paradise
+NER from text: [924 gilman street, bay bridge, philly]
+Truth Locations:  ['924 Gilman Street, East Bay']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Episode title:  Story 5: Welcome to Paradise
+NER from text: [brooklyn, palestine, bay bridge]
+Truth Locations:  ['924 Gilman Street, East Bay']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Episode title:  Story 5: Welcome to Paradise
+NER from text: [924 gilman street, brooklyn, palestine]
+Truth Locations:  ['924 Gilman Street, East Bay']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title:  Story 5: Welcome to Paradise
+NER from text: [924 gilman street, brooklyn, palestine]
+Truth Locations:  ['924 Gilman Street, East Bay']
+Match found ✅.
+
+Episode transcript-040324.txt done. (Loop Duration: 9.6617 seconds)
+
+
+Total accuracy 0.5000 using weights [0.33, 0.33, 0.33, 0].
+Total accuracy 0.5000 using weights [0.2, 0.5, 0.3, 0].
+Total accuracy 0.6818 using weights [0.35, 0.5, 0.15, 0].
+Total accuracy 0.5000 using weights [0.25, 0.25, 0.25, 0.25].
+Total accuracy 0.6818 using weights [0.3, 0.45, 0.15, 0.1].
+Total accuracy 0.6818 using weights [0.3, 0.4, 0.15, 0.15].
+
+Total execution time: 232.1218 seconds.

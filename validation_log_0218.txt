@@ -1,0 +1,723 @@
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['classic bay area', 'mcdonalds', 'san francisco']
+Truth Locations:  ['China Express and Donut', 'Mission District']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['classic bay area', 'mcdonalds', 'san francisco']
+Truth Locations:  ['China Express and Donut', 'Mission District']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['classic bay area', 'california', 'san francisco']
+Truth Locations:  ['China Express and Donut', 'Mission District']
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['classic bay area', 'mcdonalds', 'san francisco']
+Truth Locations:  ['China Express and Donut', 'Mission District']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['classic bay area', 'california', 'san francisco']
+Truth Locations:  ['China Express and Donut', 'Mission District']
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['classic bay area', 'california', 'san francisco']
+Truth Locations:  ['China Express and Donut', 'Mission District']
+
+Episode transcript-010225.txt done. (Loop Duration: 7.7197 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['del pais', 'italy', 'stephano']
+Truth Locations:  ['Mori Point', 'Rockaway Beach', 'Pacifica']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['del pais', 'italy', 'stephano']
+Truth Locations:  ['Mori Point', 'Rockaway Beach', 'Pacifica']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['california', 'pacifica', 'del pais']
+Truth Locations:  ['Mori Point', 'Rockaway Beach', 'Pacifica']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['del pais', 'italy', 'stephano']
+Truth Locations:  ['Mori Point', 'Rockaway Beach', 'Pacifica']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['california', 'pacifica', 'del pais']
+Truth Locations:  ['Mori Point', 'Rockaway Beach', 'Pacifica']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['california', 'pacifica', 'del pais']
+Truth Locations:  ['Mori Point', 'Rockaway Beach', 'Pacifica']
+Match found ✅.
+
+Episode transcript-120524.txt done. (Loop Duration: 4.9414 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['the uss hornet', 'alameda', 'the bay area']
+Truth Locations:  ['USS Hornet', 'Alameda']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['the uss hornet', 'alameda', 'the bay area']
+Truth Locations:  ['USS Hornet', 'Alameda']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['the uss hornet', 'alameda', 'the bay area']
+Truth Locations:  ['USS Hornet', 'Alameda']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['the uss hornet', 'alameda', 'the bay area']
+Truth Locations:  ['USS Hornet', 'Alameda']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['the uss hornet', 'alameda', 'the bay area']
+Truth Locations:  ['USS Hornet', 'Alameda']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['the uss hornet', 'alameda', 'the bay area']
+Truth Locations:  ['USS Hornet', 'Alameda']
+Match found ✅.
+
+Episode transcript-103124.txt done. (Loop Duration: 2.3121 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['san francisco', 'bravado', 'the golden gate recreation area']
+Truth Locations:  ['Sutro Baths']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['bravado', 'the golden gate recreation area', 'sutros']
+Truth Locations:  ['Sutro Baths']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['san francisco', 'bravado', 'the golden gate recreation area']
+Truth Locations:  ['Sutro Baths']
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['san francisco', 'bravado', 'the golden gate recreation area']
+Truth Locations:  ['Sutro Baths']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['san francisco', 'bravado', 'the golden gate recreation area']
+Truth Locations:  ['Sutro Baths']
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['san francisco', 'bravado', 'the golden gate recreation area']
+Truth Locations:  ['Sutro Baths']
+
+Episode transcript-050924.txt done. (Loop Duration: 7.4936 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['oakland', 'piedmont', 'the east bay']
+Truth Locations:  ['Piedmont']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['oakland', 'piedmont', 'the east bay']
+Truth Locations:  ['Piedmont']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['oakland', 'piedmont', 'the east bay']
+Truth Locations:  ['Piedmont']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['oakland', 'piedmont', 'the east bay']
+Truth Locations:  ['Piedmont']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['oakland', 'piedmont', 'the east bay']
+Truth Locations:  ['Piedmont']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['oakland', 'piedmont', 'the east bay']
+Truth Locations:  ['Piedmont']
+Match found ✅.
+
+Episode transcript-020124.txt done. (Loop Duration: 5.2285 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['fort scott', 'coast', 'san francisco']
+Truth Locations:  ['Fort Winfield Scott', 'Fort Scott']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['fort scott', 'coast', 'san francisco']
+Truth Locations:  ['Fort Winfield Scott', 'Fort Scott']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['fort scott', 'presidio', 'san francisco']
+Truth Locations:  ['Fort Winfield Scott', 'Fort Scott']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['fort scott', 'coast', 'san francisco']
+Truth Locations:  ['Fort Winfield Scott', 'Fort Scott']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['fort scott', 'presidio', 'san francisco']
+Truth Locations:  ['Fort Winfield Scott', 'Fort Scott']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['fort scott', 'presidio', 'san francisco']
+Truth Locations:  ['Fort Winfield Scott', 'Fort Scott']
+Match found ✅.
+
+Episode transcript-011824.txt done. (Loop Duration: 9.8084 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['san francisco', 'bay', 'crystal springs']
+Truth Locations:  ['Pulgas Water Temple', 'Sunol Water Temple']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['san francisco', 'bay', 'crystal springs']
+Truth Locations:  ['Pulgas Water Temple', 'Sunol Water Temple']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['san francisco', 'bay', 'california']
+Truth Locations:  ['Pulgas Water Temple', 'Sunol Water Temple']
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['bay', 'east bay', 'san francisco']
+Truth Locations:  ['Pulgas Water Temple', 'Sunol Water Temple']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['san francisco', 'bay', 'east bay']
+Truth Locations:  ['Pulgas Water Temple', 'Sunol Water Temple']
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['bay', 'san francisco', 'east bay']
+Truth Locations:  ['Pulgas Water Temple', 'Sunol Water Temple']
+
+Episode transcript-011124.txt done. (Loop Duration: 12.0663 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['presidio', 'the golden gate bridge', 'san francisco']
+Truth Locations:  ['Presidio Pet Cemetery']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['the golden gate bridge', 'doyle drive', 'bay curious intern']
+Truth Locations:  ['Presidio Pet Cemetery']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['presidio', 'san francisco', 'the golden gate bridge']
+Truth Locations:  ['Presidio Pet Cemetery']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['presidio', 'the golden gate bridge', 'san francisco']
+Truth Locations:  ['Presidio Pet Cemetery']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['presidio', 'san francisco', 'the golden gate bridge']
+Truth Locations:  ['Presidio Pet Cemetery']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['presidio', 'san francisco', 'the golden gate bridge']
+Truth Locations:  ['Presidio Pet Cemetery']
+Match found ✅.
+
+Episode transcript-101724.txt done. (Loop Duration: 3.9898 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['mt. diablo', 'the golden gate bridge', 'the eastern edge']
+Truth Locations:  ['Mount Diablo', 'Diablo Range', 'Contra Costa County']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['mt. diablo', 'the golden gate bridge', 'the eastern edge']
+Truth Locations:  ['Mount Diablo', 'Diablo Range', 'Contra Costa County']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['mt. diablo', 'the golden gate bridge', 'the eastern edge']
+Truth Locations:  ['Mount Diablo', 'Diablo Range', 'Contra Costa County']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['mt. diablo', 'the golden gate bridge', 'the eastern edge']
+Truth Locations:  ['Mount Diablo', 'Diablo Range', 'Contra Costa County']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['mt. diablo', 'the golden gate bridge', 'the eastern edge']
+Truth Locations:  ['Mount Diablo', 'Diablo Range', 'Contra Costa County']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['mt. diablo', 'the golden gate bridge', 'the eastern edge']
+Truth Locations:  ['Mount Diablo', 'Diablo Range', 'Contra Costa County']
+Match found ✅.
+
+Episode transcript-091124.txt done. (Loop Duration: 11.5741 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['port costa: quirky,', 'port costa', 'corrine']
+Truth Locations:  ['Port Costa', 'The Warehouse Cafe', 'The Burlington Hotel']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['port costa: quirky,', 'corrine', 'va']
+Truth Locations:  ['Port Costa', 'The Warehouse Cafe', 'The Burlington Hotel']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['port costa: quirky,', 'port costa', 'corrine']
+Truth Locations:  ['Port Costa', 'The Warehouse Cafe', 'The Burlington Hotel']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['port costa: quirky,', 'port costa', 'corrine']
+Truth Locations:  ['Port Costa', 'The Warehouse Cafe', 'The Burlington Hotel']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['port costa: quirky,', 'port costa', 'corrine']
+Truth Locations:  ['Port Costa', 'The Warehouse Cafe', 'The Burlington Hotel']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['port costa: quirky,', 'port costa', 'corrine']
+Truth Locations:  ['Port Costa', 'The Warehouse Cafe', 'The Burlington Hotel']
+Match found ✅.
+
+Episode transcript-082924.txt done. (Loop Duration: 8.3684 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['sf', 'san francisco', 'market']
+Truth Locations:  ['Brotherhood Way']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['sf', 'market', 'san francisco']
+Truth Locations:  ['Brotherhood Way']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['sf', 'san francisco', 'market']
+Truth Locations:  ['Brotherhood Way']
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['sf', 'san francisco', 'market']
+Truth Locations:  ['Brotherhood Way']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['sf', 'san francisco', 'market']
+Truth Locations:  ['Brotherhood Way']
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['sf', 'san francisco', 'market']
+Truth Locations:  ['Brotherhood Way']
+
+Episode transcript-061324.txt done. (Loop Duration: 7.8096 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['times square', 'new york', 'new york city']
+Truth Locations:  ['Times Square']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['times square', 'new york', 'new york city']
+Truth Locations:  ['Times Square']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['times square', 'new york', 'new york city']
+Truth Locations:  ['Times Square']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['times square', 'new york', 'new york city']
+Truth Locations:  ['Times Square']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['times square', 'new york', 'new york city']
+Truth Locations:  ['Times Square']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['times square', 'new york', 'new york city']
+Truth Locations:  ['Times Square']
+Match found ✅.
+
+Episode transcript-122424.txt done. (Loop Duration: 14.4305 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['vermont', 'montpelier', 'bear pond']
+Truth Locations:  ['Montpelier']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['vermont', 'montpelier', 'bear pond']
+Truth Locations:  ['Montpelier']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['vermont', 'montpelier', 'bear pond']
+Truth Locations:  ['Montpelier']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['vermont', 'montpelier', 'bear pond']
+Truth Locations:  ['Montpelier']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['vermont', 'montpelier', 'bear pond']
+Truth Locations:  ['Montpelier']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['vermont', 'montpelier', 'bear pond']
+Truth Locations:  ['Montpelier']
+Match found ✅.
+
+Episode transcript-082024.txt done. (Loop Duration: 12.2629 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['arlington', 'virginia', 'new york city']
+Truth Locations:  ['Arlington']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['arlington', 'virginia', 'new york city']
+Truth Locations:  ['Arlington']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['arlington', 'virginia', 'new york city']
+Truth Locations:  ['Arlington']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['arlington', 'virginia', 'new york city']
+Truth Locations:  ['Arlington']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['arlington', 'virginia', 'new york city']
+Truth Locations:  ['Arlington']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['arlington', 'virginia', 'new york city']
+Truth Locations:  ['Arlington']
+Match found ✅.
+
+Episode transcript-112922.txt done. (Loop Duration: 6.3679 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['arctic', 'paris', 'north']
+Truth Locations:  ['Fairbanks']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['arctic', 'paris', 'north']
+Truth Locations:  ['Fairbanks']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['arctic', 'alaska', 'paris']
+Truth Locations:  ['Fairbanks']
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['north', 'arctic', 'us']
+Truth Locations:  ['Fairbanks']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['north', 'arctic', 'alaska']
+Truth Locations:  ['Fairbanks']
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['north', 'arctic', 'alaska']
+Truth Locations:  ['Fairbanks']
+
+Episode transcript-040522.txt done. (Loop Duration: 13.4740 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['la', 'discovery', 'new york']
+Truth Locations:  ['Flight Path Museum']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['la', 'discovery', 'new york']
+Truth Locations:  ['Flight Path Museum']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['la', 'los angeles', 'discovery']
+Truth Locations:  ['Flight Path Museum']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['la', 'las', 'discovery']
+Truth Locations:  ['Flight Path Museum']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['la', 'las', 'los angeles']
+Truth Locations:  ['Flight Path Museum']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['la', 'las', 'los angeles']
+Truth Locations:  ['Flight Path Museum']
+Match found ✅.
+
+Episode transcript-110724.txt done. (Loop Duration: 8.2200 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['la', 'l.a.', 'youtube']
+Truth Locations:  ['The Coffee Company', 'Hungry Joes']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['la', 'l.a.', 'youtube']
+Truth Locations:  ['The Coffee Company', 'Hungry Joes']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['la', 'l.a.', 'youtube']
+Truth Locations:  ['The Coffee Company', 'Hungry Joes']
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['la', 'south', 'l.a.']
+Truth Locations:  ['The Coffee Company', 'Hungry Joes']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['la', 'l.a.', 'south']
+Truth Locations:  ['The Coffee Company', 'Hungry Joes']
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['la', 'l.a.', 'south']
+Truth Locations:  ['The Coffee Company', 'Hungry Joes']
+
+Episode transcript-092624.txt done. (Loop Duration: 8.3891 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ["new york's", 'harlem', 'east harlem']
+Truth Locations:  ['Spanish Harlem']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ["new york's", 'harlem', 'east harlem']
+Truth Locations:  ['Spanish Harlem']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ["new york's", 'harlem', 'east harlem']
+Truth Locations:  ['Spanish Harlem']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ["new york's", 'harlem', 'east harlem']
+Truth Locations:  ['Spanish Harlem']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ["new york's", 'harlem', 'east harlem']
+Truth Locations:  ['Spanish Harlem']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ["new york's", 'harlem', 'east harlem']
+Truth Locations:  ['Spanish Harlem']
+Match found ✅.
+
+Episode transcript-113025.txt done. (Loop Duration: 47.7518 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['san fernando', 'valley', 'southwest']
+Truth Locations:  ['Majers Coin Laundry']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['san fernando', 'valley', 'southwest']
+Truth Locations:  ['Majers Coin Laundry']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['san fernando', 'valley', 'southwest']
+Truth Locations:  ['Majers Coin Laundry']
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['valley', 'la', 'san fernando']
+Truth Locations:  ['Majers Coin Laundry']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['valley', 'la', 'san fernando']
+Truth Locations:  ['Majers Coin Laundry']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['valley', 'la', 'san fernando']
+Truth Locations:  ['Majers Coin Laundry']
+Match found ✅.
+
+Episode transcript-060323.txt done. (Loop Duration: 12.7204 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['titanic', 'connecticut', 'atlantic']
+Truth Locations:  ['Atlantic Ocean']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['connecticut', 'atlantic', 'titanic']
+Truth Locations:  ['Atlantic Ocean']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['titanic', 'connecticut', 'earth']
+Truth Locations:  ['Atlantic Ocean']
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['titan', 'titanic', 'connecticut']
+Truth Locations:  ['Atlantic Ocean']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['titanic', 'titan', 'connecticut']
+Truth Locations:  ['Atlantic Ocean']
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['titan', 'titanic', 'connecticut']
+Truth Locations:  ['Atlantic Ocean']
+
+Episode transcript-062223.txt done. (Loop Duration: 5.8400 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['stephenville', 'texas', 'indianapolis']
+Truth Locations:  ['Española']
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['stephenville', 'virginia', 'indianapolis']
+Truth Locations:  ['Española']
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['stephenville', 'texas', 'indianapolis']
+Truth Locations:  ['Española']
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['stephenville', 'texas', 'indianapolis']
+Truth Locations:  ['Española']
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['stephenville', 'texas', 'indianapolis']
+Truth Locations:  ['Española']
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['stephenville', 'texas', 'indianapolis']
+Truth Locations:  ['Española']
+
+Episode transcript-062023.txt done. (Loop Duration: 6.6372 seconds)
+
+
+NEW EPISODE BEGINS ->
+
+Outcomes for weights [0.33, 0.33, 0.33, 0]:
+Top 3 Rated Locations:  ['gilman', 'the east bay', 'brooklyn']
+Truth Locations:  ['924 Gilman Street, East Bay']
+Match found ✅.
+
+Outcomes for weights [0.2, 0.5, 0.3, 0]:
+Top 3 Rated Locations:  ['gilman', 'the east bay', 'brooklyn']
+Truth Locations:  ['924 Gilman Street, East Bay']
+Match found ✅.
+
+Outcomes for weights [0.35, 0.5, 0.15, 0]:
+Top 3 Rated Locations:  ['gilman', 'the east bay', 'brooklyn']
+Truth Locations:  ['924 Gilman Street, East Bay']
+Match found ✅.
+
+Outcomes for weights [0.25, 0.25, 0.25, 0.25]:
+Top 3 Rated Locations:  ['gilman', 'the east bay', 'brooklyn']
+Truth Locations:  ['924 Gilman Street, East Bay']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.45, 0.15, 0.1]:
+Top 3 Rated Locations:  ['gilman', 'the east bay', 'brooklyn']
+Truth Locations:  ['924 Gilman Street, East Bay']
+Match found ✅.
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Top 3 Rated Locations:  ['gilman', 'the east bay', 'brooklyn']
+Truth Locations:  ['924 Gilman Street, East Bay']
+Match found ✅.
+
+Episode transcript-040324.txt done. (Loop Duration: 8.9045 seconds)
+
+Total accuracy 0.5455 using weights [0.33, 0.33, 0.33, 0].
+Total accuracy 0.5455 using weights [0.2, 0.5, 0.3, 0].
+Total accuracy 0.5909 using weights [0.35, 0.5, 0.15, 0].
+Total accuracy 0.5455 using weights [0.25, 0.25, 0.25, 0.25].
+Total accuracy 0.6364 using weights [0.3, 0.45, 0.15, 0.1].
+Total accuracy 0.6364 using weights [0.3, 0.4, 0.15, 0.15].
+
+Total execution time: 226.3172 seconds.
