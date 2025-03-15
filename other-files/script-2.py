@@ -6,8 +6,8 @@ import googlemaps
 import requests
 import json
 
-gcp_api_key = "AIzaSyB8gTPUFfVshMdysHm95GH-OyMxRicNGLs"
-geonames_username = "samxp"
+gcp_api_key = "YOUR_GCP_KEY"
+geonames_username = "YOUR_GEONAMES_USERNAME"
 
 validations = {
     "episodes": [
