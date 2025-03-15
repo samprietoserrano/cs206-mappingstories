@@ -1,0 +1,58 @@
+<!-- templates/results.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Analysis Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header-branding">
+            <img src="https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/SU_SealColor_web3.png" alt="Stanford Logo" class="stanford-logo">
+            <span class="course-title">CS206/COMM281</span>
+        </div>
+        <div class="location-icon">
+            <div class="triangle-icons">
+                <i class="fas fa-map-marker-alt icon-1"></i>
+                <i class="fas fa-map-marker-alt icon-2"></i>
+                <i class="fas fa-map-marker-alt icon-3"></i>
+            </div>
+        </div>
+        
+        <h1>Location Analysis Results</h1>
+        
+        <div class="travel-icon-container">
+            <i class="fas fa-search-location travel-icon"></i>
+        </div>
+        
+        <div class="results">
+            <h2>Most Relevant Locations in Episode</h2>
+            {% if ranked_locations %}
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Rank</th>
+                            <th>Location</th>
+                            <th>Relevancy Score</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for item in ranked_locations %}
+                            <tr>
+                                <td>{{ loop.index }}</td>
+                                <td>{{ item[0] }}</td>
+                                <td>{{ "%.4f"|format(item[1]) }}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            {% else %}
+                <p>No locations were found in the transcript.</p>
+            {% endif %}
+        </div>
+        
+        <a href="{{ url_for('index') }}" class="back-button">Analyze Another Transcript</a>
+    </div>
+</body>
+</html>

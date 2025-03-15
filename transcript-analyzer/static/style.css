@@ -1,0 +1,221 @@
+/* static/style.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #f5f8fa;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+.header-branding {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.location-icon {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.triangle-icons {
+    position: relative;
+    width: 40px;
+    height: 40px;
+}
+
+.icon-1 {
+    position: absolute;
+    top: 0;
+    right: 10px;
+    /* color: #8C1515; */
+    color: #3498db;
+}
+
+.icon-2 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    /* color: #8C1515; */
+    color: #3498db;
+}
+
+.icon-3 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    /* color: #8C1515; */
+    color: #3498db;
+}
+
+.stanford-logo {
+    height: 30px;
+    margin-right: 10px;
+}
+
+.course-title {
+    font-weight: bold;
+    color: #8C1515; /* Stanford red */
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    /* color: #2c3e50; */
+    color: #3498db;
+}
+
+p {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.upload-form {
+    margin-top: 40px;
+}
+
+.form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+.form-label {
+    min-width: 200px;
+    text-align: right;
+    margin-right: 15px;
+}
+
+.file-upload {
+    flex: 1;
+    max-width: 400px;
+}
+
+input[type="file"] {
+    display: block;
+    padding: 10px;
+    border: 1px dashed #ccc;
+    border-radius: 5px;
+    width: 100%;
+}
+
+button {
+    display: block;
+    width: 200px;
+    margin: 30px auto;
+    padding: 12px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+.alerts {
+    margin-bottom: 20px;
+}
+
+.alert {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.results {
+    margin: 30px 0;
+}
+
+h2 {
+    margin-bottom: 15px;
+    color: #2c3e50;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+
+th, td {
+    padding: 12px 25px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+tr:hover {
+    background-color: #f5f5f5;
+}
+
+.back-button {
+    display: block;
+    width: 250px;
+    margin: 0 auto;
+    padding: 12px;
+    background-color: #0b9645;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.back-button:hover {
+    background-color: #27ae60;
+}
+
+.travel-icon-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.travel-icon {
+    font-size: 48px;
+    color: #3498db;
+}
+
+.loading-container {
+    text-align: center;
+}
+
+.self-question {
+    font-style: italic;
+}
+
+.loading-message {
+    margin-top: 5px;
+}

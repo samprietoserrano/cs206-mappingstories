@@ -1,0 +1,15 @@
+
+NEW EPISODE BEGINS -> transcript-040324.txt
+
+Outcomes for weights [0.3, 0.4, 0.15, 0.15]:
+Episode title: 'Story 5: Welcome to Paradise'
+Top NER from text: [924 gilman street, west berkeley, bay area, san francisco,
+				east bay, columbay, los angeles, brooklyn,
+				bay bridge, new york city, philly, oakland,
+				8th street, 285b. kent, "mr. ts bowl", palestine,
+				yuppie street, disneyland, u. s.]
+
+Episode transcript-040324.txt done. (Loop Duration: 12.3312 seconds)
+
+
+Total execution time: 12.3366 seconds.

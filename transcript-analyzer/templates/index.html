@@ -1,0 +1,51 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Transcript Location Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header-branding">
+            <img src="https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/SU_SealColor_web3.png" alt="Stanford Logo" class="stanford-logo">
+            <span class="course-title">CS206/COMM281</span>
+        </div>
+        <div class="location-icon">
+            <div class="triangle-icons">
+                <i class="fas fa-map-marker-alt icon-1"></i>
+                <i class="fas fa-map-marker-alt icon-2"></i>
+                <i class="fas fa-map-marker-alt icon-3"></i>
+            </div>
+        </div>
+        
+        <h1>Podcast Transcript Analyzer</h1>
+        <p><span class="self-question">"Where should I listen to this podcast episode?"     </span><i class="fas fa-headphones"></i><br><br>Upload a transcript file to extract and rank the most relevant<br>locations within the story, and find out!</p>
+        
+        <div class="travel-icon-container">
+            <i class="fas fa-globe-americas travel-icon"></i>
+        </div>
+        
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                <div class="alerts">
+                    {% for message in messages %}
+                        <p class="alert">{{ message }}</p>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        {% endwith %}
+        
+        <form method="POST" enctype="multipart/form-data" class="upload-form">
+            <div class="form-group">
+                <label for="file" class="form-label">Choose a transcript file (TXT):</label>
+                <div class="file-upload">
+                    <input type="file" name="file" id="file" accept=".txt">
+                </div>
+            </div>
+            <button type="submit">Analyze</button>
+        </form>
+    </div>
+</body>
+</html>

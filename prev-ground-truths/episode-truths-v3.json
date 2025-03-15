@@ -1,0 +1,305 @@
+{
+    "episodes": [
+        {
+            "episode_file": "transcript-010225.txt",
+            "genre": "Food and Culture", 
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "Chinese Food and Donuts: A Classic Bay Area Combo",
+                    "location": ["China Express and Donut", "Mission District"],
+                    "coordinates": {
+                        "latitude": [37.7636, 37.75993],
+                        "longitude": [-122.4174, 122.4191376]
+                    }
+                }
+            ]
+        }, 
+        {
+            "episode_file": "transcript-120524.txt",
+            "genre": "History and Culture", 
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "Is Monterey Jack Cheese ... Not From Monterey?",
+                    "location": ["Mori Point", "Rockaway Beach", "Pacifica"],
+                    "coordinates": {
+                        "latitude": [37.6200, 37.6044, 37.6328],
+                        "longitude": [-122.4985, -122.4878, -122.4901]
+                    }
+                }
+            ]
+        }, 
+        {
+            "episode_file": "transcript-103124.txt",
+            "genre": "Crime and Mystery", 
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "An Eerie Night on the USS Hornet",
+                    "location": ["USS Hornet", "Alameda"],
+                    "coordinates": {
+                        "latitude": [37.7726, 37.76615524291992],
+                        "longitude": [-122.3028, 122.24369812011719]
+                    }
+                }
+            ]
+        }, 
+        {
+            "episode_file": "transcript-050924.txt",
+            "genre": "History and Culture", 
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "History of Sutro Baths",
+                    "location": ["Sutro Baths"],
+                    "coordinates": {
+                        "latitude": [37.7806],
+                        "longitude": [-122.51356]
+                    }
+                }
+            ]
+        }, 
+        {
+            "episode_file": "transcript-020124.txt",
+            "genre": "History and Culture", 
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "Why Piedmont Is A Separate City From Oakland",
+                    "location": ["Piedmont"],
+                    "coordinates": {
+                        "latitude": [37.8244],
+                        "longitude": [-122.2315]
+                    }
+                }
+            ]
+        }, 
+        {
+            "episode_file": "transcript-011824.txt",
+            "genre": "History and Culture", 
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "The Hidden History of Fort Scott",
+                    "location": ["Fort Winfield Scott", "Fort Scott"],
+                    "coordinates": {
+                        "latitude": [37.482, 37.8016991],
+                        "longitude": [-122.2821, -122.4727831]
+                    }
+                }
+            ]
+        }, 
+        {
+            "episode_file": "transcript-011124.txt",
+            "genre": "History and Culture", 
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "Two Water Temples ... Why?!",
+                    "location": ["Pulgas Water Temple", "Sunol Water Temple"],
+                    "coordinates": {
+                        "latitude": [37.4835, 37.5855],
+                        "longitude": [-122.3165, -121.8855]
+                    }
+                }
+            ]
+        },
+        {
+            "episode_file": "transcript-101724.txt",
+            "genre": "History and Culture", 
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "A Final Resting Spot for Furry Friends",
+                    "location": ["Presidio Pet Cemetery"],
+                    "coordinates": {
+                        "latitude": [37.80258],
+                        "longitude": [-122.467093]
+                    }
+                }
+            ]
+        },
+        {
+            "episode_file": "transcript-091124.txt",
+            "genre": "Travel and Adventure", 
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "Does Mount Diablo Have the Biggest View in the World?",
+                    "location": ["Mount Diablo", "Diablo Range", "Contra Costa County"],
+                    "coordinates": {
+                        "latitude": [37.8816, 36.3697, 37.8534],
+                        "longitude": [-121.9142, -120.6443, -121.9018]
+                    }
+                }
+            ]
+        },
+        {
+            "episode_file": "transcript-082924.txt",
+            "genre": "History and Culture", 
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "Port Costa: Quirky, Historic, Cool",
+                    "location": ["Port Costa", "The Warehouse Cafe", 
+                                            "The Burlington Hotel"],
+                    "coordinates": {
+                        "latitude": [38.0463, 38.0464, 38.0466],
+                        "longitude": [-122.1833, -122.1835, -122.1837]
+                    }
+                }
+            ]
+        },
+        {
+            "episode_file": "transcript-061324.txt",
+            "genre": "History and Culture", 
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "Why the Name Brotherhood Way in SF?",
+                    "location": ["Brotherhood Way"],
+                    "coordinates": {
+                        "latitude": [37.4250],
+                        "longitude": [-122.2830]
+                    }
+                }
+            ]
+        },
+        {
+            "episode_file": "transcript-122424.txt",
+            "genre": "Travel and Adventure", 
+            "source": "99% Invisible",
+            "data": [
+                {   
+                    "title": "Episode 608: New Year, New Neighborhood",
+                    "location": ["Times Square"],
+                    "coordinates": {
+                        "latitude": [40.758896],
+                        "longitude": [-73.985130]
+                    }
+                }
+            ]
+        },
+        {
+            "episode_file": "transcript-082024.txt",
+            "genre": "News and Education", 
+            "source": "99% Invisible",
+            "data": [
+                {   
+                    "title": "The Bottom of the Bowl",
+                    "location": ["Montpelier, VT"],
+                    "coordinates": {
+                        "latitude": [44.260059],
+                        "longitude": [-72.575386]
+                    }
+                }
+            ]
+        },
+        {
+            "episode_file": "transcript-040522.txt",
+            "genre": "Travel and Adventure", 
+            "source": "My Alaska Summer",
+            "data": [
+                {   
+                    "title": "Episode 6: Life Up North",
+                    "location": ["Fairbanks, AK"],
+                    "coordinates": {
+                        "latitude": [64.835365],
+                        "longitude": [-147.776749]
+                    }
+                }
+            ]
+        },
+        {
+            "episode_file": "transcript-110724.txt",
+            "genre": "History and Culture", 
+            "source": "LAist: How to LA",
+            "data": [
+                {   
+                    "title": "Exploring LA's 'unique and unexpected' museums w/ Todd Lerew",
+                    "location": ["Flight Path Museum"],
+                    "coordinates": {
+                        "latitude": [33.93566953719961],
+                        "longitude": [-118.40530345044843]
+                    }
+                }
+            ]
+        },
+        {
+            "episode_file": "transcript-092624.txt",
+            "genre": "Food and Culture", 
+            "source": "LAist: How to LA",
+            "data": [
+                {   
+                    "title": "REDUX: Food spots near LAX w/ LA Try Guy",
+                    "location": ["The Coffee Company, LA", "Hungry Joes, LA"],
+                    "coordinates": {
+                        "latitude": [33.95784314612203, 33.978081602195324],
+                        "longitude": [-118.39455746193285, -118.35713700426086]
+                    }
+                }
+            ]
+        },
+        {
+            "episode_file": "transcript-113025.txt",
+            "genre": "History and Culture", 
+            "source": "Bowery Boys",
+            "data": [
+                {   
+                    "title": "#449 Italian Harlem: New York's Forgotten Little Italy",
+                    "location": ["Italian Harlem"],
+                    "coordinates": {
+                        "latitude": [40.7921],
+                        "longitude": [-73.9374]
+                    }
+                }
+            ]
+        },
+        {
+            "episode_file": "transcript-060323.txt",
+            "genre": "History and Culture", 
+            "source": "On Location",
+            "data": [
+                {   
+                    "title": "Ep. 23: Kelly Stuart at Majers Coin Laundry from \"Everything Everywhere All at Once\"",
+                    "location": ["Majers Coin Laundry, San Fernando, CA"],
+                    "coordinates": {
+                        "latitude": [34.28960051343045],
+                        "longitude": [-118.44947722143806]
+                    }
+                }
+            ]
+        },
+        {
+            "episode_file": "transcript-062023.txt",
+            "genre": "Crime and Mystery", 
+            "source": "Stephenville",
+            "data": [
+                {   
+                    "title": "Episode 2: Michael",
+                    "location": ["Española, New Mexico"],
+                    "coordinates": {
+                        "latitude": [35.9911],
+                        "longitude": [-106.0806]
+                    }
+                }
+            ]
+        },
+      {
+            "episode_file": "transcript-040324.txt",
+            "genre": "News and Education", 
+            "source": "Reclaiming What's Been Lost",
+            "data": [
+                {   
+                    "title": "Story 5: Welcome to Paradise",
+                    "location": ["924 Gilman Street, East Bay"],
+                    "coordinates": {
+                        "latitude": [37.879715247740684],
+                        "longitude": [-122.29930136175226]
+                    }
+                }
+            ]
+        }
+    ]
+}

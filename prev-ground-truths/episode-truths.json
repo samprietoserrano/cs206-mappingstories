@@ -1,0 +1,102 @@
+{
+    "episodes": [
+        {
+            "episode_file": "transcript-010225.txt",
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "Chinese Food and Donuts: A Classic Bay Area Combo",
+                    "location": ["China Express and Donut", "Mission District"],
+                    "coordinates": {
+                        "latitude": [37.7636],
+                        "longitude": [-122.4174]
+                    }
+                }
+            ]
+        }, 
+        {
+            "episode_file": "transcript-120524.txt",
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "Is Monterey Jack Cheese ... Not From Monterey?",
+                    "location": ["Mori Point", "Rockaway Beach", "Pacifica"],
+                    "coordinates": {
+                        "latitude": [37.6200, 37.6044, 37.6328],
+                        "longitude": [-122.4985, -122.4878, -122.4901]
+                    }
+                }
+            ]
+        }, 
+        {
+            "episode_file": "transcript-103124.txt",
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "An Eerie Night on the USS Hornet",
+                    "location": ["USS Hornet", "Alameda"],
+                    "coordinates": {
+                        "latitude": [37.7726],
+                        "longitude": [-122.3028]
+                    }
+                }
+            ]
+        }, 
+        {
+            "episode_file": "transcript-050924.txt",
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "History of Sutro Baths",
+                    "location": ["Sutro Baths"],
+                    "coordinates": {
+                        "latitude": [37.7806],
+                        "longitude": [-122.51356]
+                    }
+                }
+            ]
+        }, 
+        {
+            "episode_file": "transcript-020124.txt",
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "Why Piedmont Is A Separate City From Oakland",
+                    "location": ["Piedmont"],
+                    "coordinates": {
+                        "latitude": [37.8244],
+                        "longitude": [-122.2315]
+                    }
+                }
+            ]
+        }, 
+        {
+            "episode_file": "transcript-011824.txt",
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "The Hidden History of Fort Scott",
+                    "location": ["Fort Winfield Scott", "Fort Scott"],
+                    "coordinates": {
+                        "latitude": [37.482],
+                        "longitude": [-122.2821]
+                    }
+                }
+            ]
+        }, 
+        {
+            "episode_file": "transcript-011124.txt",
+            "source": "Bay Curious",
+            "data": [
+                {   
+                    "title": "Two Water Temples ... Why?!",
+                    "location": ["Pulgas Water Temple", "Sunol Water Temple"],
+                    "coordinates": {
+                        "latitude": [37.4835, 37.5855],
+                        "longitude": [-122.3165, -121.8855]
+                    }
+                }
+            ]
+        }
+    ]
+}
